@@ -3,7 +3,7 @@
             <center><h1>Sucursales</h1></center>
             <ol class="breadcrumb">
              
-              <li class="active"></i><h4> Agregar</h4></li>
+              <li class="active"></i><h4> Agregar Sucursal</h4></li>
             </ol>
             
           </div>
